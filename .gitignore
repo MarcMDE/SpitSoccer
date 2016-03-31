@@ -70,3 +70,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Assets
+*.png
+*.meta
