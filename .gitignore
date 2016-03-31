@@ -73,4 +73,4 @@ $RECYCLE.BIN/
 
 # Assets
 *.png
-SpitSoccer\Assets\Gameplay\Assets
+**/Gameplay/Assets
